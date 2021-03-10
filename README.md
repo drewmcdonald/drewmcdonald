@@ -1,4 +1,4 @@
-👋&nbsp;&nbsp;I'm a Data Scientist with five years of experience in progressive political data.
+👋&nbsp;&nbsp;I'm an analytics-engineer-slash-data-scientist with five years of experience in progressive political data.
 
 I love building models and data infrastructure that help Democrats win ✅
 
@@ -11,6 +11,6 @@ I love building models and data infrastructure that help Democrats win ✅
 
 This is Woody&nbsp;🐶&nbsp; -- he loves you!
 
-<p align="center">
-  <img src="assets/woody.gif" width="50%" alt="woody.gif" title="Woody Loves You!">
+<p>
+  <img src="assets/woody.gif" width="25%" alt="woody.gif" title="Woody Loves You!">
 </p>
