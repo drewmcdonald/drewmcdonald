@@ -1,6 +1,6 @@
-👋&nbsp;&nbsp;I'm an analytics-engineer with six years of experience in progressive political data.
+👋&nbsp;&nbsp;I'm a data-focused engineer with seven years of experience in progressive political data.
 
-I love building data products and infrastructure that help Democrats win ✅
+I love building data products and infrastructure that help move us forward.
 
 🌈&nbsp;&nbsp;they / them / theirs<br>
 📧&nbsp;&nbsp;drew.w.mcd at gmail<br>
