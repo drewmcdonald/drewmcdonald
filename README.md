@@ -1,6 +1,6 @@
-👋&nbsp;&nbsp;I'm a data-focused engineer with seven years of experience in progressive political data.
+👋&nbsp;&nbsp;I'm a data-minded engineer with experience in progressive political data and climate tech.
 
-I love building data products and infrastructure that help move us forward.
+I love things that help move us forward.
 
 🌈&nbsp;&nbsp;they / them / theirs<br>
 📧&nbsp;&nbsp;drew.w.mcd at gmail<br>
