@@ -6,7 +6,6 @@ I love building things that help move us forward.
 📧&nbsp;&nbsp;drew.w.mcd at gmail<br>
 🏡&nbsp;&nbsp;Washington, DC<br>
 🔗&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/drewwmcd/)<br>
-📷&nbsp;&nbsp;[Instagram](https://instagram.com/dmcd.snaps)<br>
 
 This is Woody&nbsp;🐶&nbsp; -- he loves you!
 
